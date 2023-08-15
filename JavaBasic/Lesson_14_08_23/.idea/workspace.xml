@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="53decb14-faca-4118-8e37-e8f841783d94" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../HW_07_08_23/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HW_07_08_23/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HW_07_08_23/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HW_07_08_23/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HW_07_08_23/src/main/java/org/example/Input.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HW_2_8_23/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HW_2_8_23/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HW_2_8_23/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HW_2_8_23/src/main/java/org/example/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JAVA_basic_17.07.23/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JAVA_basic_17.07.23/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JAVA_basic_17.07.23/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lesson_020823/src/main/java/org/example/Main2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lesson_10_08_23/src/main/java/org/example/methods.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lesson_31.07.23/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lesson_31.07.23/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lesson_31.07.23/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lesson_31.07.23/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Summery_11_08_23/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Summery_11_08_23/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Summery_11_08_23/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Summery_11_08_23/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Summery_11_08_23/src/main/java/org/example/Human.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled1/src/main/java/org/example/methods.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectId" id="2TxxK2PSBHgVXyzCVMZRrP2UbL6" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "settings.editor.selected.configurable": "editor.preferences.fonts.default"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="53decb14-faca-4118-8e37-e8f841783d94" name="Changes" comment="" />
+      <created>1691998467951</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1691998467951</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
